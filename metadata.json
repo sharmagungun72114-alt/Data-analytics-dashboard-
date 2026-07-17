@@ -1,0 +1,6 @@
+{
+  "name": "Business Intelligence Dashboard",
+  "description": "A comprehensive full-stack Data Analytics & Business Intelligence Dashboard built with React, Node.js, Express, and SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
